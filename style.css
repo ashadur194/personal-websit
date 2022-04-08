@@ -1,3 +1,67 @@
 body{
     font-family: 'Poppins', sans-serif;
+    margin: 0;
+}
+
+.name{
+    color: rgb(236, 67, 95);
+
+}
+
+h1{
+    font-size: 50px;
+}
+
+.half-width{
+    width: 40%;
+    float: left;
+    margin-left: 5%;
+    padding-left: 2%;
+   
+
+}
+
+.half-width img{
+    width: 100%;
+}
+
+.top-banner{
+background-image: url(images/header-bg.png);
+background-repeat: no-repeat;
+}
+section{
+    height: 600px;
+    padding-bottom: 40px;
+   
+}
+
+p{
+    color: dimgray;
+}
+.middle{
+    background-image: url(images/biography-bg.png);
+    background-repeat: no-repeat;
+}
+
+.work img{
+    width:30%;
+    margin: 10px;
+}
+.tukkuru{
+text-align: center;
+}
+
+.work{
+    background-image: url(images/latest-work-bg.png);
+    background-repeat: no-repeat;
+}
+
+footer{
+    text-align: center;
+    background-image: url(images/footer-bg.png);
+    background-repeat: no-repeat;
+}
+.pink{
+    background-color: palevioletred;
+    
 }
