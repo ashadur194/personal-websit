@@ -112,3 +112,7 @@ span{
 .bottom{
     color: dimgrey;
 }
+
+body{
+    flex-wrap: wrap;
+}
