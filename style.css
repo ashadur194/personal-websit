@@ -115,4 +115,5 @@ span{
 
 body{
     flex-wrap: wrap;
+    display: flex;
 }
